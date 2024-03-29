@@ -1,7 +1,7 @@
 library(stringr)
 
 # Part 1 --------------------------------------------------------------
-
+#
 # read input file
 input = readLines("dat/input4.txt")
 
